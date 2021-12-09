@@ -1,4 +1,4 @@
-def containerName="Jenkinsproject"
+def containerName="jenkinsproject"
 def tag="latest"
 def dockerHubUser="511993"
 def httpPort="8090"
