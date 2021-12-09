@@ -1,4 +1,4 @@
-def containerName="docker-pipeline"
+def containerName="Jenkinsproject"
 def tag="latest"
 def dockerHubUser="511993"
 def httpPort="8090"
